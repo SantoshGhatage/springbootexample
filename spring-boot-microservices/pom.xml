@@ -5,7 +5,7 @@
 	<groupId>com.javacodegeeks.example</groupId>
 	<artifactId>spring-boot-microservices</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Spring Boot Microservices Example</name>
+	<name>Spring Boot Microservices Examples</name>
 	<description>Spring Boot Microservices Example by Joel Patrick Llosa. This example goes with a blog in examples.javacodegeeks.com</description>
 
 	<properties>
